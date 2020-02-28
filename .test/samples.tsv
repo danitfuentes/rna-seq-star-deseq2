@@ -1,3 +1,10 @@
 sample	condition
-A	treated
-B	untreated
+N1	Neuron
+N2	Neuron
+N3	Neuron
+N4	Neuron
+N5	Neuron
+G1	Glia
+G2	Glia
+G3	Glia
+G4	Glia
